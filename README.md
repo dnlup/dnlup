@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-------
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B34J7FL)
-
-<a href="https://www.buymeacoffee.com/dnlup" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60px width=217px></a>
-
 <!--
 **dnlup/dnlup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
